@@ -5,7 +5,7 @@ MainWithoutGlueball.nb: Contains the fit of the meson sector without glueball + 
 
 MainWithGlueball.nb: Contains the fit of the meson sector with glueball.
 
-ErrorCalculationWithGlueball.nb: Contains the error calculation of MainWithGlueball.nb. You need to run ExpressionsToFunctionsWithGlueball.nb first.
+ErrorCalculationWithGlueball.nb: Contains the error calculation of MainWithGlueball.nb. 
 
 PionNucleonWithoutGlueball.nb: Contains the calculation of the isospin-even and isospin-odd pion-nucleon scattering parameters without glueball.
 
